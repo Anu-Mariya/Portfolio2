@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+7:"static/chunks/838-f0a32ad00542a816.js"
+8:"static/chunks/app/page-c667d35e84028aa1.js"
+9:I[7297,["838","$7","974","$8"],"default"]
+a:I[3806,["838","$7","974","$8"],"default"]
+b:I[1361,["838","$7","974","$8"],"default"]
+c:I[4076,["838","$7","974","$8"],"default"]
+d:I[9570,["838","$7","974","$8"],"default"]
+e:I[3300,["838","$7","974","$8"],"default"]
+f:I[6269,["838","$7","974","$8"],"default"]
+10:I[3986,["838","$7","974","$8"],"default"]
+11:I[2539,["838","$7","974","$8"],"default"]
+12:I[484,[],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[484,[],"$16"]
+18:"MetadataBoundary"
+19:I[484,[],"$18"]
+:HL["/_next/static/css/ed280a5713fceff3.css","style"]
+5:X
+6:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen flex flex-col bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors","children":[["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}]]}],null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$5"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ed280a5713fceff3.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","children":[["$","head",null,{"children":["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}]}],["$","body",null,{"className":"min-h-screen font-sans bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 antialiased selection:bg-sky-500 selection:text-white","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]]}],"p":"$@4","v":null,"s":"$5"},"c":"$Q6"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Anu Mariya Varghese | Software Engineer & Full-Stack Developer"}],["$","meta","1",{"name":"description","content":"Portfolio of Anu Mariya Varghese - Software Engineer, MCA Student at FISAT, and Full-Stack Developer specializing in MERN Stack, Python, Flask, and AI integrations."}],["$","meta","2",{"name":"author","content":"Anu Mariya Varghese"}],["$","meta","3",{"name":"keywords","content":"Anu Mariya Varghese,Software Engineer,Full Stack Developer,MERN Stack Developer,React.js,Node.js,Python Developer,Flask,MCA FISAT,Web Developer Kerala,Frontend Developer,Backend Developer"}],["$","meta","4",{"property":"og:title","content":"Anu Mariya Varghese | Software Engineer & Full-Stack Developer"}],["$","meta","5",{"property":"og:description","content":"Specializing in MERN stack, Python, and AI-driven web systems. View featured projects, technical experience, and skills."}],["$","meta","6",{"property":"og:url","content":"https://github.com/Anu-Mariya"}],["$","meta","7",{"property":"og:site_name","content":"Anu Mariya Varghese Portfolio"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:image","content":"https://anu-mariya.dev/anu-mariya-varghese.jpg"}],["$","meta","10",{"property":"og:image:width","content":"800"}],["$","meta","11",{"property":"og:image:height","content":"1000"}],["$","meta","12",{"property":"og:image:alt","content":"Anu Mariya Varghese - Software Engineer"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Anu Mariya Varghese | Software Engineer & Full-Stack Developer"}],["$","meta","16",{"name":"twitter:description","content":"Specializing in MERN stack, Python, and AI-driven web systems. View featured projects, technical experience, and skills."}],["$","meta","17",{"name":"twitter:image","content":"https://anu-mariya.dev/anu-mariya-varghese.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Anu Mariya Varghese - Software Engineer"}],["$","meta","19",{"name":"twitter:image:width","content":"800"}],["$","meta","20",{"name":"twitter:image:height","content":"1000"}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$5"}},"a":"$@1b","u":"$@1c","b":"w14zzAXe8eKMc3z68jlEu"}
+14:null
+5:300
+1c:true
+5:C
+1b:0
+4:"$undefined"
+1a:"$undefined"
+15:"$undefined"
